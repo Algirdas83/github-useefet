@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.04bf5d24.css",
-    "main.js": "/static/js/main.783ed762.js",
-    "index.html": "/index.html",
-    "main.04bf5d24.css.map": "/static/css/main.04bf5d24.css.map",
-    "main.783ed762.js.map": "/static/js/main.783ed762.js.map"
+    "main.css": "/github-useefet/static/css/main.04bf5d24.css",
+    "main.js": "/github-useefet/static/js/main.783ed762.js",
+    "index.html": "/github-useefet/index.html",
+    "main.04bf5d24.css.map": "/github-useefet/static/css/main.04bf5d24.css.map",
+    "main.783ed762.js.map": "/github-useefet/static/js/main.783ed762.js.map"
   },
   "entrypoints": [
     "static/css/main.04bf5d24.css",
